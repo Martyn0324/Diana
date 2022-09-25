@@ -18,3 +18,11 @@ Let the nanomachines hunt begin, son.
 ![](https://user-images.githubusercontent.com/28028007/175126621-d731ccbf-1ef9-4815-b350-2eb8f8dae57b.png)
 
 *Yes, I might be too much into science fiction...but isn't it imagination the first step to creation?*
+
+
+
+## Vision
+
+A nanomachine would probably be like a submarine in a cellular scale. As such, its vision could work in the same way as a submarine: through ultrasounds.
+Adapting UNet in order to use ultrasound images might be interesting for this. Alas, it still isn't possible to use ultrasound in a cellular scale in order to detect changes inside a cell withouth damaging it(ultrasound might, even, cause cellular damage, being used as a mechanism to extract DNA in biotech field).
+Unfortunately, the problem here is probably developing a equipment able to launch and detect ultrasound or another waves that will have a wavelength as small as a cell(micrometers). If such equipment exists, it wouldn't be hard to pass the detected wavelengths to a Neural Network. Simply multipling values might be enough.
