@@ -26,3 +26,19 @@ Let the nanomachines hunt begin, son.
 A nanomachine would probably be like a submarine in a cellular scale. As such, its vision could work in the same way as a submarine: through ultrasounds.
 Adapting UNet in order to use ultrasound images might be interesting for this. Alas, it still isn't possible to use ultrasound in a cellular scale in order to detect changes inside a cell withouth damaging it(ultrasound might, even, cause cellular damage, being used as a mechanism to extract DNA in biotech field).
 Unfortunately, the problem here is probably developing a equipment able to launch and detect ultrasound or another waves that will have a wavelength as small as a cell(micrometers). If such equipment exists, it wouldn't be hard to pass the detected wavelengths to a Neural Network. Simply multipling values might be enough.
+
+## Adhesion
+
+In order to properly perform its work, such submarine would require to move through the blood flow and, when getting close/detecting an pathological element, would have to fix itself to some surface or even to the pathogen itself. A possibility for this would be using cadherins, a biomolecule used by cells to attach themselves to each other. It would be interesting to take a look at macrophages and neutrophils cadherins, since they're able to attach to any cell(and even to non-biological components, like India Ink and dust particles).
+
+## Deletion
+
+The most obvious way to remove a pathological cell from the body would be simply destroying it through cellular damage. This could be made through nanoscopic scalpels or through other mechanisms, such as applying ethanol 100% or ultrasound. However, doing so could release into the closer areas mollecules that could induce apoptosis(substances that are normally present within the cells).
+Immunoglobulins are too specific, and not all pathogens could have their apoptosis induced through factors like Tumoral Necrosis Factors(TNFs), like what happens with some cancer cells.
+
+## Extraction
+
+The ideal for making such nanomachines would be using biological composites, that could be degraded by the body, such as proteins and lipids. However, if this were possible, it could also make the process more expensive, as the nanomachine would be lost after each operation.
+So, an alternative would be making it from a sterile material that wouldn't trigger an immune response. After the operation is done, the nanomachine could go to a part of the body where it could be easily extracted, such as the forearm. There, it could induce an inflammation by damaging some healthy cells. The inflammation would increase blood flow through that part, making it easier for other nanomachines to get there and fix themselves. Inducing the formation of pustules could also help during this process.
+
+After all it's done, the nanomachine could be extracted from the biological material, cleaned up and used again. If it's the same size as a cell, it would have little room for being contaminated, right?
