@@ -12,6 +12,8 @@ The nanobots must be able to be powered thorugh a less toxic way of energy as po
 They also must be able to distinguish friend from foe. For that, an AI can be quite convenient, and this is where Diana must shine. She must be able to get images (through light or sound) from each single nanomachine in the swarm and classify the cells she's seeing as target or non-target. Target cells must be eliminated.
 The elimination perhaps can occur through simple physical damage directly to the nucleus. One must pay attention to the possibility of inducing necrosis into nearby cells. This is why Diana must also have a Reinforcement Learning option... *and a shut down button, in case she goes berserk*. Just kidding, but still.
 
+Another question to be analysed is the aspect of Internet of Things: the nanobots must be able to get signals and send them to a computer, where the AI will actually be acting, and receive signals back from the computer. Again, the signals probably must have high frequency and low wavelength in order to get past the human body without suffering big distortions. X-rays might, again, be a good alternative, but this once again limits the organs and patients that can receive this procedure.
+
 
 Let the nanomachines hunt begin, son.
 
@@ -26,6 +28,9 @@ Let the nanomachines hunt begin, son.
 A nanomachine would probably be like a submarine in a cellular scale. As such, its vision could work in the same way as a submarine: through ultrasounds.
 Adapting UNet in order to use ultrasound images might be interesting for this. Alas, it still isn't possible to use ultrasound in a cellular scale in order to detect changes inside a cell withouth damaging it(ultrasound might, even, cause cellular damage, being used as a mechanism to extract DNA in biotech field).
 Unfortunately, the problem here is probably developing a equipment able to launch and detect ultrasound or another waves that will have a wavelength as small as a cell(micrometers). If such equipment exists, it wouldn't be hard to pass the detected wavelengths to a Neural Network. Simply multipling values might be enough.
+
+While we don't have such equipment, we could rely on spectrometry: assuming that we can mark a pathological cell DNA in a way that it shines, the nanomachines could be able to detect those cells in a way that the immune system can't.
+We could train our model with immunospectrometry, since the idea is the same: detect cells whose DNA glows(of cells with glowing points) and destroy them. When in practice, we could simply use some way to mark a specific cell that possess a specific, pathologic genetic sequence(ex: a tumor, which has, as remarkable trait, the replacement of certain bases CCCGCC ---> TTTGCC), through radioactive isotropes. This treatment might be specifically efficient to tumorous cells, since they're constantly in mithosis, thus, constantly incorporating mollecules to its DNA.
 
 ## Adhesion
 
