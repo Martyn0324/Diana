@@ -9,7 +9,14 @@ It's necessary to develop an alternative way of treating cancer and, if possible
 That's why the idea here is to use AI-moved nanobots whose work will be supervised by a professional. All of this to treat diseases, without making the process too costly for the patient.
 
 The nanobots must be able to be powered thorugh a less toxic way of energy as possible. The ideal would be using the chemical energy from the organism(ions dissolved in blood, like Ca+² and Na+ or Phospate bonds in ATP, ADP, AMP...). However, that might be a bit difficult for now, so an alternative would be X-Rays, or some kind of eletromagnetic waves that can penetrate the skin and generate eletric current in the nanobots through photoeletric effect.
-They also must be able to distinguish friend from foe. For that, an AI can be quite convenient, and this is where Diana must shine. She must be able to get images (through light or sound) from each single nanomachine in the swarm and classify the cells she's seeing as target or non-target. Target cells must be eliminated.
+
+The energy could be sent through eletromagnetic waves directly into some specific metals in the nanobots circuits. Ideally, such circuits could be nano(or pico?)chips. Yet, this may be a bit too difficult for now. **An alternative could be using electron transporter chains extracted from mitochondres inner membranes** . An electron transporter chain works in a manner that resembles a battery, in a cascate of redox reactions, from the first complex (which has the highest oxidation potential, or the lowest reduction potential) passing by the third complex (the second may be ignored as it's just another entrance for electrons, through succinate-dehydrogenasis) to the fourth complex (which has the highest reduction potential).
+In the mitochondre, the movement of electrons is used to change the shape of channel proteins and promote passage of prótons(H+ íons). Maybe we could try adapting this system to work as a bioelectrical circuit for micro or nano-scaled machines.
+
+![image](https://github.com/Martyn0324/Diana/assets/28028007/b5f2cc4a-2cd2-4c40-9a11-2b1219df9460)
+
+
+They also must be able to distinguish friend from foe. For that, an AI can be quite convenient, and this is where Diana must shine. She must be able to get images (through light or sound) - probably through sound, as a way of mapping each cell interior(getting the shape of the nucleus, for example) - from each single nanomachine in the swarm and classify the cells she's seeing as target or non-target. Target cells must be eliminated.
 The elimination perhaps can occur through simple physical damage directly to the nucleus. One must pay attention to the possibility of inducing necrosis into nearby cells. This is why Diana must also have a Reinforcement Learning option... *and a shut down button, in case she goes berserk*. Just kidding, but still.
 
 Another question to be analysed is the aspect of Internet of Things: the nanobots must be able to get signals and send them to a computer, where the AI will actually be acting, and receive signals back from the computer. Again, the signals probably must have high frequency and low wavelength in order to get past the human body without suffering big distortions. X-rays might, again, be a good alternative, but this once again limits the organs and patients that can receive this procedure.
@@ -20,8 +27,6 @@ Let the nanomachines hunt begin, son.
 ![](https://user-images.githubusercontent.com/28028007/175126621-d731ccbf-1ef9-4815-b350-2eb8f8dae57b.png)
 
 *Yes, I might be too much into science fiction...but isn't it imagination the first step to creation?*
-
-
 
 ## Vision
 
@@ -38,8 +43,8 @@ In order to properly perform its work, such submarine would require to move thro
 
 ## Deletion
 
-The most obvious way to remove a pathological cell from the body would be simply destroying it through cellular damage. This could be made through nanoscopic scalpels or through other mechanisms, such as applying ethanol 100% or ultrasound. However, doing so could release into the closer areas mollecules that could induce apoptosis(substances that are normally present within the cells).
-Immunoglobulins are too specific, and not all pathogens could have their apoptosis induced through factors like Tumoral Necrosis Factors(TNFs), like what happens with some cancer cells.
+The most obvious way to remove a pathological cell from the body would be simply destroying it through cellular damage. This could be made through nanoscopic scalpels or through other mechanisms, such as applying ethanol 100% or ultrasound. However, doing so could release mollecules that could induce apoptosis in neighbour cells.
+Maybe the most clean and smooth way of doing so would be through injection of Ca²+ íons(which activate many enzymes chain, including caspase cascate), injection of BAK/BAX channels(to promote liberation of p53 cytochromes from mitochondres), or even injection of a mixture of p53 and Ca²+, or even apoptossomes that are already activated with Ca²+ íons. Beware of possible inhibitors of caspases that tumoral cells could develop.
 
 ## Extraction
 
