@@ -46,6 +46,9 @@ In order to properly perform its work, such submarine would require to move thro
 The most obvious way to remove a pathological cell from the body would be simply destroying it through cellular damage. This could be made through nanoscopic scalpels or through other mechanisms, such as applying ethanol 100% or ultrasound. However, doing so could release mollecules that could induce apoptosis in neighbour cells.
 Maybe the most clean and smooth way of doing so would be through injection of Ca²+ íons(which activate many enzymes chain, including caspase cascate), injection of BAK/BAX channels(to promote liberation of p53 cytochromes from mitochondres), or even injection of a mixture of p53 and Ca²+, or even apoptossomes that are already activated with Ca²+ íons. Beware of possible inhibitors of caspases that tumoral cells could develop.
 
+![image](https://github.com/Martyn0324/Diana/assets/28028007/90006202-782b-4663-918e-dc99c9d98320)
+
+
 ## Extraction
 
 The ideal for making such nanomachines would be using biological composites, that could be degraded by the body, such as proteins and lipids. However, if this were possible, it could also make the process more expensive, as the nanomachine would be lost after each operation.
