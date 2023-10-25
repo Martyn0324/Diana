@@ -38,6 +38,11 @@ While we don't have such equipment, we could rely on spectrometry: assuming that
 We could train our model with immunospectrometry, since the idea is the same: detect cells whose DNA glows(of cells with glowing points) and destroy them. When in practice, we could simply use some way to mark a specific cell that possess a specific, pathologic genetic sequence(ex: a tumor, which has, as remarkable trait, the replacement of certain bases CCCGCC ---> TTTGCC), through radioactive isotropes. This treatment might be specifically efficient to tumorous cells, since they're constantly in mithosis, thus, constantly incorporating mollecules to its DNA.
 
 ### Question: This is already used in current and new Cancer therapies, especially around HER2 and PD-1/PD-L1 inhibitors. A similar strategy is used with Chimeric Antigen Receptors (CAR) and T Cells (CART cells) and even Macrophages (M Cells). How can Diana be better than those alternatives?
+
+![image](https://github.com/Martyn0324/Diana/assets/28028007/110dce9e-bb83-41e8-b18d-1663c240e7e6)
+
+![image](https://github.com/Martyn0324/Diana/assets/28028007/c1933ab4-ced9-4b36-94d3-298cb1a07c65)
+
 Costs is not really an issue. However, CAR-T cells treatment seems to be less efficient when not treating blood neoplasies. Not only that, but it seems that it also doesn't discard chemotherapy. M cells seems more promising due to higher capacity of diapedesis.
 How can Diana be more efficient somehow than those promising alternatives? Isn't it better to produce Memory cells that could be able to immunize the patient against that type of cancer? Afterall, cancer only shows up because something is wrong with the DNA. And, if the DNA is not fixed, the cancer cell may appear again (something that seems quite common, through the years).
 
